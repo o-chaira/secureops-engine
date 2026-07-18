@@ -1,0 +1,19 @@
+# Local environments
+venv/
+env/
+
+# Secrets and credentials
+.env
+*.key
+*.pem
+
+# Python artifacts
+__pycache__/
+*.pyc
+
+# Java artifacts
+*.class
+
+# Logs and OS files
+*.log
+.DS_Store
