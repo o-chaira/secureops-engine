@@ -1,0 +1,8 @@
+[theme]
+# Classic SecureOps Theme
+base="dark"
+primaryColor="#0cc23a"          
+backgroundColor="#050505"       
+secondaryBackgroundColor="#0A0A0A" 
+textColor="#0cc23a"             
+font="monospace"
